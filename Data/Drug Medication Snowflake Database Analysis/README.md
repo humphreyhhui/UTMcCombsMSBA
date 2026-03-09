@@ -1,1 +1,0 @@
-Built and deployed a Snowflake data warehouse using medallion architecture (Bronze/Silver/Gold) with dynamic tables, Cortex AI functions (LLM recommendations, sentiment analysis, summarization), and Cortex Search for semantic querying across a pharmaceutical dataset, visualized through a Streamlit dashboard
